@@ -4,7 +4,7 @@
 
 </div>
 <p align="center">
-    <img src="D:\Programação\PEX\pex-descomplica\imgs\conttex.gif">
+    <img src="/imgs/conttex.gif">
     </P>
 <div align="center">
 
@@ -43,11 +43,11 @@ Durante o desenvolvimento, fizemos algumas reuniões com a empresa e realizamos 
 ## Criado por:
 
 <a href="https://github.com/AylaDelavi">
-  <img src="https://avatars.githubusercontent.com/u/126912043?v=4" width="40" height="40" style="border-radius: 50%;" alt="Ayla">
+  <img src="https://avatars.githubusercontent.com/u/126912043?v=4" width="40" height="40" style="border-radius: 50%;">
 </a>
 
 <a href="https://github.com/DanielLevyy">
-  <img src="https://avatars.githubusercontent.com/u/162149714?v=4" width="40" height="40" style="border-radius: 50%;" alt="Daniel">
+  <img src="https://avatars.githubusercontent.com/u/162149714?v=4" width="40" height="40" style="border-radius: 50%;">
 </a>
 
 <br></br>
@@ -58,6 +58,6 @@ Durante o desenvolvimento, fizemos algumas reuniões com a empresa e realizamos 
 
 <br></br>
 <p align="center">
-    <img src="D:\Programação\PEX\pex-descomplica\imgs\thankyou.png">
+    <img src="/imgs/thankyou.png">
     </P>
 <p align="center" style="font-size: 24px;">
