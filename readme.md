@@ -41,15 +41,15 @@ Durante o desenvolvimento, fizemos algumas reuniões com a empresa e realizamos 
 
 <br></br>
 ## Criado por:
+<div>
 
 <a href="https://github.com/AylaDelavi">
-  <img src="https://avatars.githubusercontent.com/u/126912043?v=4" width="40" height="40" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/126912043?v=4" width="80" height="80" style="border-radius: 100%;"
+   href="https://github.com/DanielLevyy">
+  <img src="https://avatars.githubusercontent.com/u/162149714?v=4" width="80" height="80" style="border-radius: 100%;">
 </a>
 
-<a href="https://github.com/DanielLevyy">
-  <img src="https://avatars.githubusercontent.com/u/162149714?v=4" width="40" height="40" style="border-radius: 50%;">
-</a>
-
+</div>
 <br></br>
 <br></br>
 
