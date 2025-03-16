@@ -44,8 +44,10 @@ Durante o desenvolvimento, fizemos algumas reuniões com a empresa e realizamos 
 <div>
 
 <a href="https://github.com/AylaDelavi">
-  <img src="https://avatars.githubusercontent.com/u/126912043?v=4" width="80" height="80" style="border-radius: 100%;"
-   href="https://github.com/DanielLevyy">
+  <img src="https://avatars.githubusercontent.com/u/126912043?v=4" width="80" height="80" style="border-radius: 100%;">
+</a>
+
+<a href="https://github.com/DanielLevyy">
   <img src="https://avatars.githubusercontent.com/u/162149714?v=4" width="80" height="80" style="border-radius: 100%;">
 </a>
 
