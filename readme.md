@@ -4,11 +4,11 @@
 
 </div>
 <p align="center">
-    <img src="/imgs/conttex.gif">
+    <img src="/imgs/conttex.gif" style="font-size: 24px;"> 
     </P>
 <div align="center">
 
-## Criaçao de um Website relacionado a contabilidade
+## Website - Contabilidade
 
 </div>
 
@@ -56,8 +56,3 @@ Durante o desenvolvimento, fizemos algumas reuniões com a empresa e realizamos 
 ### _Licença_
 **_Este projeto não da a licença para cópia ou mudanças. Criado apenas para a visualização_**
 
-<br></br>
-<p align="center">
-    <img src="/imgs/thankyou.png">
-    </P>
-<p align="center" style="font-size: 24px;">
