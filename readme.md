@@ -14,9 +14,9 @@
 
 
 ## Motivações para a criação do projeto 
-De acordo com pesquisas realizadas pelo Comitê Gestor da Internet no Brasil, em 2017 apenas 29% das microempresas possuíam website.  
+De acordo com pesquisas realizadas pelo Comitê Gestor da Internet no Brasil, em 2017 apenas 29% das microempresas possuíam website.
 
-Sabendo disso, foi criado o projeto de extensão Infranet, que procurou uma microempresa que não possuía um website e forneceu de forma gratuita.
+Sabendo disso, foi criado o nosso projeto de extensão, que procurou uma microempresa que não possuía um website e forneceu de forma gratuita.
 
 ## Desenvolvimento do projeto 
 ### Tempo de desenvolvimento 
@@ -44,11 +44,10 @@ Durante o desenvolvimento, fizemos algumas reuniões com a empresa e realizamos 
 <div>
 
 <a href="https://github.com/AylaDelavi">
-  <img src="https://avatars.githubusercontent.com/u/126912043?v=4" width="80" height="80" style="border-radius: 100%;">
+  <img src="https://avatars.githubusercontent.com/u/126912043?v=4" width="80" height="80">
 </a>
-
 <a href="https://github.com/DanielLevyy">
-  <img src="https://avatars.githubusercontent.com/u/162149714?v=4" width="80" height="80" style="border-radius: 100%;">
+  <img src="https://avatars.githubusercontent.com/u/162149714?v=4" width="80" height="80">
 </a>
 
 </div>
@@ -56,5 +55,5 @@ Durante o desenvolvimento, fizemos algumas reuniões com a empresa e realizamos 
 <br></br>
 
 ### _Licença_
-**_Este projeto não da a licença para cópia ou mudanças. Criado apenas para a visualização_**
+**_Este projeto não da a licença para cópia ou mudanças. Criado apenas para a visualização._**
 
