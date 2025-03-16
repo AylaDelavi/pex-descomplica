@@ -1,12 +1,16 @@
-<p align="center" style="font-size: 32px;">
-  <b> Projeto de Extenção - Descomplica </b>
-</p>
+<div align="center">
+
+# Projeto de Extensão - Descomplica
+
+</div>
 <p align="center">
     <img src="D:\Programação\PEX\pex-descomplica\imgs\conttex.gif">
     </P>
-<p align="center" style="font-size: 24px;">
-   Criação de um Website relacionado a contabilidade 
-</p>
+<div align="center">
+
+## Criaçao de um Website relacionado a contabilidade
+
+</div>
 
 
 ## Motivações para a criação do projeto 
